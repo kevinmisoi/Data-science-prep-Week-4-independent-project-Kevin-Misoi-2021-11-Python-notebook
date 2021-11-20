@@ -1,4 +1,4 @@
-# Data-science-prep-Week-4-indipendent-project-Kevin-Misoi-2021-11-Python-notebook
+# Data-science-prep-Week-4-independent-project-Kevin-Misoi-2021-11-Python-notebook
 Moringa_Data_Science_Prep_W4_Independent_Project_2021_11_Kevin_Misoi_Python_Notebook.ipynb
 
 {Data Science IP Week 4}
